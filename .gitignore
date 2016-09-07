@@ -40,3 +40,6 @@ jspm_packages
 
 # IntelliJ IDE
 .idea/
+
+# Build directory
+build/
